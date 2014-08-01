@@ -1,4 +1,5 @@
 fmarkets
 ========
 
-financial market model
+simple model of the financial market and noisy trading
+
